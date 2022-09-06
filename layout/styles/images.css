@@ -1,0 +1,81 @@
+#connectedvoiceslogo{
+    background-image: url(/images/demo/logos/connectedVoiceslogoedited.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    background-repeat: no-repeat;
+    background-position-x:center;
+    background-position-y:center;
+    border-radius: 100%;
+}
+#home{
+    background-image: url(/images/demo/backgrounds/connectedvoicesbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#blankprofile{
+    background-image: url(/images/demo/PROFILES/blankprofilepic.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+#founderprofile{
+    background-image: url(/images/demo/PROFILES/johnmoshe.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+#chairmanprofile{
+    background-image: url(/images/demo/PROFILES/PaulAgonda.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+#headRDprofile{
+    background-image: url(/images/demo/PROFILES/clarencemangera.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+#ExecSecProfile{
+    background-image: url(/images/demo/PROFILES/cherrylgumbo.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+#concertbg{
+    background-image: url(/images/demo/backgrounds/concertbgblur.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#concertposter{
+    background-image: url(/images/demo/logos/coming\ soon\ -\ Made\ with\ PosterMyWall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 100%;
+}
