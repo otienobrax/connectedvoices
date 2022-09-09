@@ -68,6 +68,17 @@
     justify-content: center;
     margin: auto;
 }
+#tresurerprofile{
+    background-image: url(/images/demo/PROFILES/PaulObop1.png);
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
 #concertbg{
     background-image: url(/images/demo/backgrounds/concertbgblur.jpg);
     background-repeat: no-repeat;
