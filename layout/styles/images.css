@@ -90,3 +90,8 @@
     background-size: cover;
     opacity: 100%;
 }
+.video {
+    aspect-ratio: 16/9;
+    width: 853px;
+    height: 505px;
+}
